@@ -1,0 +1,16 @@
+{
+  "spellcheck": true,
+  "readableLineLength": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "livePreview": false
+}

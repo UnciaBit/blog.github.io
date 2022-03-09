@@ -1,0 +1,14 @@
+{
+  "commitMessage": "Modified File [{{date}}]",
+  "commitDateFormat": "YYYYMMDD-HH:mm",
+  "autoSaveInterval": 0,
+  "autoPullInterval": 5,
+  "autoPullOnBoot": true,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "disablePopups": false,
+  "listChangedFilesInMessageBody": true,
+  "showStatusBar": true,
+  "updateSubmodules": false,
+  "gitPath": ""
+}
