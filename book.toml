@@ -1,0 +1,6 @@
+[book]
+authors = ["UnciaBit"]
+language = "en"
+multilingual = false
+src = "src"
+title = "UnciaBit SecBlog"
