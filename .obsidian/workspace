@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b6af99802d1c5dd9",
+        "id": "7527b4fe7a1069aa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "src/index.md",
+            "file": "src/ctf/index.md",
             "mode": "source",
             "source": true
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240
+    "width": 179
   },
   "right": {
     "id": "4e294bbbfeed5317",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/index.md",
+                "file": "src/ctf/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,17 @@
     "width": 251,
     "collapsed": true
   },
-  "active": "b6af99802d1c5dd9",
+  "active": "7527b4fe7a1069aa",
   "lastOpenFiles": [
+    "src/ctf/index.md",
+    "src/ctf/crypto/RSA/index.md",
+    "src/ctf/crypto/XOR/index.md",
     "src/index.md",
     "src/SUMMARY.md",
+    "src/tools.md",
     "src/chapter_1.md",
     "research/01-commands.md",
     "Screenshot 2021-09-03 at 22.59.16.png",
-    "03-recipes.md",
-    "02-projectIdeas.md",
-    "01-opensourceProjects.md",
-    "00-index.md",
-    "admin/02-serverDeploy.md"
+    "03-recipes.md"
   ]
 }
