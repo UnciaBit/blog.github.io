@@ -17,10 +17,12 @@
 
 # Discussion
 
+- [Discussion1]()
 
 ----
 
-# Non-security
+#  Non security
 
-[Publishing mdBook to GitHub Pages for free](./non-sec/mdBookGH.md)
-
+- [Server/Hosting]()
+	- [Host mdBook on GitHub Pages for free]()
+	- [Migrating Vaultwarden instance to another server]()

@@ -1,5 +1,6 @@
 [book]
 authors = ["UnciaBit"]
+description = "UnciaBit's journey to Cybersecurity"
 language = "en"
 multilingual = false
 src = "src"
