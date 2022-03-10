@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 179
+    "width": 216
   },
   "right": {
     "id": "4e294bbbfeed5317",
@@ -98,14 +98,14 @@
   "active": "7527b4fe7a1069aa",
   "lastOpenFiles": [
     "src/SUMMARY.md",
-    "src/non-sec/mdBookGH.md",
-    "src/index.md",
-    "src/tools.md",
+    "src/non-sec/ngrokSSH.md",
     "src/ctf/crypto/index.md",
     "src/ctf/crypto/XOR/index.md",
     "src/ctf/crypto/RSA/index.md",
+    "src/non-sec/mdBookGH.md",
+    "src/index.md",
+    "src/tools.md",
     "src/chapter_1.md",
-    "research/01-commands.md",
-    "Screenshot 2021-09-03 at 22.59.16.png"
+    "research/01-commands.md"
   ]
 }
