@@ -16,3 +16,11 @@
 
 
 # Discussion
+
+
+----
+
+# Non-security
+
+[Publishing mdBook to GitHub Pages for free](./non-sec/non-sec/mdBookGH)
+
