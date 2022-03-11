@@ -26,4 +26,4 @@
 - [Server/Hosting]()
 	- [Host mdBook on GitHub Pages for free]()
 	- [Migrating Vaultwarden instance to another server]()
-	- [SSH into remote machine without port forward using Ngrok]
+	- [SSH into remote machine without port forward using Ngrok]()
