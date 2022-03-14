@@ -11,8 +11,9 @@
 # CTF Specific
 
 - [Cryptography](./ctf/crypto/index.md)
-	- [RSA](./ctf/crypto/RSA/index.md)
-	- [XOR](./ctf/crypto/XOR/index.md)
+	- [RSA](./ctf/crypto/rsa/index.md)
+	- [XOR](./ctf/crypto/xor/index.md)
+	- [SHA](./ctf/crypto/sha/index.md)
 
 
 # Discussion
