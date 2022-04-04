@@ -111,13 +111,13 @@
   "lastOpenFiles": [
     "src/SUMMARY.md",
     "src/index.md",
-    "src/ctf/crypto/xor/index.md",
     "src/ctf/crypto/index.md",
-    "src/ctf/crypto/rsa/index.md",
     "src/non-sec/ngrokSSH.md",
     "src/non-sec/mdBookGH.md",
+    "src/ctf/crypto/sha/index.md",
+    "src/ctf/crypto/rsa/index.md",
+    "src/ctf/crypto/xor/index.md",
     "src/tools.md",
-    "src/chapter_1.md",
-    "research/01-commands.md"
+    "src/chapter_1.md"
   ]
 }
