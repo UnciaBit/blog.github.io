@@ -8,7 +8,7 @@
 
 ----
 
-# CTF Specific
+# CTF Techniques
 
 - [Cryptography](./ctf/crypto/index.md)
 	- [RSA](./ctf/crypto/rsa/index.md)
@@ -25,10 +25,9 @@
 - [PicoCTF 2022]()
 - [MonSec CTF 2022]()
 - [UMass CTF 2022]()
-- [RITSEC CTF 2022]
+- [RITSEC CTF 2022]()
 
 
-# Discussion
 ----
 
 #  Non security
