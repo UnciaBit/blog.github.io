@@ -27,12 +27,11 @@
 - [UMass CTF 2022]()
 - [RITSEC CTF 2022]()
 
-
 ----
 
 #  Non security
 
-- [[Index] Topics](_index.md)
+- [Non-Security Topics](./non-sec/_index.md)
 - [Server/Hosting]()
 	- [Host mdBook on GitHub Pages for free]()
 	- [Migrating Vaultwarden instance to another server]()
@@ -42,5 +41,5 @@
 	- [Recommended ThrottleStop Configuration]()
 	- [Privacy-Focused Software]()
 - [Other Personal]()
-	- [Journey To Get A Job]()
+	- [Journey To Getting A Job]()
 		  
