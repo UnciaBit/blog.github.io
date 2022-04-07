@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7527b4fe7a1069aa",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "src/SUMMARY.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
         "id": "45a4e65e918ab9f5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "src/index.md",
+            "file": "src/SUMMARY.md",
             "mode": "source",
             "source": true
           }
@@ -99,25 +87,34 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "6d1372d41c9215ce",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 251,
     "collapsed": true
   },
-  "active": "7527b4fe7a1069aa",
+  "active": "45a4e65e918ab9f5",
   "lastOpenFiles": [
     "src/SUMMARY.md",
     "src/index.md",
-    "src/ctf/crypto/index.md",
+    "src/non-sec/throttleStop.md",
+    "src/non-sec/privSoftware.md",
+    "src/non-sec/_index.md",
+    "local/non-sec-index.md",
+    "src/non-sec/crashingNCP.md",
+    "src/non-sec/privHost.md",
     "src/non-sec/ngrokSSH.md",
-    "src/non-sec/mdBookGH.md",
-    "src/ctf/crypto/sha/index.md",
-    "src/ctf/crypto/rsa/index.md",
-    "src/ctf/crypto/xor/index.md",
-    "src/tools.md",
-    "src/chapter_1.md"
+    "src/non-sec/mdBookGH.md"
   ]
 }

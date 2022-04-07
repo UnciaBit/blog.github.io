@@ -1,5 +1,6 @@
 {
   "commitMessage": "Modified File [{{date}}]",
+  "autoCommitMessage": "Modified File [{{date}}]",
   "commitDateFormat": "YYYYMMDD-HH:mm",
   "autoSaveInterval": 0,
   "autoPullInterval": 5,
@@ -10,5 +11,10 @@
   "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": false,
-  "gitPath": ""
+  "syncMethod": "merge",
+  "gitPath": "",
+  "customMessageOnAutoBackup": false,
+  "autoBackupAfterFileChange": false,
+  "treeStructure": false,
+  "refreshSourceControl": true
 }

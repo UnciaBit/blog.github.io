@@ -32,8 +32,15 @@
 
 #  Non security
 
+- [index](_index.md)
 - [Server/Hosting]()
 	- [Host mdBook on GitHub Pages for free]()
 	- [Migrating Vaultwarden instance to another server]()
 	- [SSH into remote machine without port forward using Ngrok]()
-	- [Privacy-focused self-hosting]()
+	- [Privacy-Focused Self Hosting]()
+- [Software Setup]()
+	- [Recommended ThrottleStop Configuration]()
+	- [Privacy-Focused Software]()
+- [Other Personal]()
+	- [Journey To Get A Job]()
+		  
