@@ -1,7 +1,7 @@
 -----
 
 [index of all](src/index.md)
-[index of non-sec blogs](_index.md)
+[index of non-sec blogs](_non-sec-index.md)
 
 -----
 

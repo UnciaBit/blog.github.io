@@ -108,10 +108,10 @@
   "lastOpenFiles": [
     "src/SUMMARY.md",
     "src/index.md",
+    "src/non-sec/_non-sec-index.md",
+    "local/non-sec-index.md",
     "src/non-sec/throttleStop.md",
     "src/non-sec/privSoftware.md",
-    "src/non-sec/_index.md",
-    "local/non-sec-index.md",
     "src/non-sec/crashingNCP.md",
     "src/non-sec/privHost.md",
     "src/non-sec/ngrokSSH.md",
