@@ -109,7 +109,7 @@
     "src/SUMMARY.md",
     "src/index.md",
     "src/non-sec/_non-sec-index.md",
-    "local/non-sec-index.md",
+    "_local/non-sec-index.md",
     "src/non-sec/throttleStop.md",
     "src/non-sec/privSoftware.md",
     "src/non-sec/crashingNCP.md",
