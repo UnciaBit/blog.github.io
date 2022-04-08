@@ -31,7 +31,7 @@
 
 #  Non security
 
-- [Non-Security Topics](_non-sec-index.md)
+[Non-Security Topics](_non-sec-index.md)
 - [Server/Hosting]()
 	- [Host mdBook on GitHub Pages for free]()
 	- [Migrating Vaultwarden instance to another server]()
