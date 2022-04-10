@@ -10,10 +10,10 @@
 
 # CTF Techniques
 
-- [Cryptography](./ctf/crypto/index.md)
-	- [RSA](./ctf/crypto/rsa/index.md)
-	- [XOR](./ctf/crypto/xor/index.md)
-	- [SHA](./ctf/crypto/sha/index.md)
+- [Cryptography]()
+	- [RSA]()
+	- [XOR]()
+	- [SHA]()
 		- [SHA-1 Collision in PDF]()
 - [Reverse Engineering]()
 - [Forensics]()

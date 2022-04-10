@@ -107,6 +107,7 @@
   "active": "45a4e65e918ab9f5",
   "lastOpenFiles": [
     "src/SUMMARY.md",
+    "_local/drafts/journey.md",
     "src/index.md",
     "src/non-sec/_non-sec-index.md",
     "_local/non-sec-index.md",
@@ -114,7 +115,6 @@
     "src/non-sec/privSoftware.md",
     "src/non-sec/crashingNCP.md",
     "src/non-sec/privHost.md",
-    "src/non-sec/ngrokSSH.md",
-    "src/non-sec/mdBookGH.md"
+    "src/non-sec/ngrokSSH.md"
   ]
 }
