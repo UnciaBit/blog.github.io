@@ -8,3 +8,6 @@ title = "UnciaBit SecBlog"
 
 [output.html.fold]
 enable = true
+
+[output.html]
+default-theme = "rust"

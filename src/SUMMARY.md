@@ -18,6 +18,7 @@
 - [Reverse Engineering]()
 - [Forensics]()
 - [Web Exploitation]()
+	- [Directory Traversal]()
 
 
 # CTF Writeups
@@ -26,13 +27,20 @@
 - [MonSec CTF 2022]()
 - [UMass CTF 2022]()
 - [RITSEC CTF 2022]()
+- [PlaidCTF]()
 
 # Lab Writeups
 
 - [TryHackMe]()
 	- [biteme [medium]]()
+- [HackTheBox]()
+	- [challenge]()
 
-----
+# Cert Prep
+- [OSCP]()
+- [CCNA]()
+
+-----------------------
 
 #  Non security
 
@@ -45,10 +53,10 @@
 - [Software Setup]()
 	- [Recommended ThrottleStop Configuration]()
 	- [Privacy-Focused Software]()
-- [Other Personal]()
-	- [Journey To Getting A Job]() 
-
-
+- [Other]()
+	- [Terminal Commands]()
 # Personal Development & PKM
 
-- [The Journey]()
+- [The Journey](./pkm/journey.md)
+	- [Getting a Job is Hard]()
+	- [Introvert's Attempt to People Networking]()
