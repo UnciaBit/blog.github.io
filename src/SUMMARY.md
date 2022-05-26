@@ -38,7 +38,7 @@
 - [TryHackMe]()
 	- [biteme [medium]]()
 - [HackTheBox](labs/htb/index.md)
-	- [pandora](labs/htb/pandora/pandora.md)
+	- [pandora]()
 
 # Cert Prep
 - [OSCP]()

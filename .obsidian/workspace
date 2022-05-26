@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "src/labs/htb/pandora/pandora.md",
+            "file": "src/SUMMARY.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/labs/htb/pandora/pandora.md",
+                "file": "src/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "bdb47a731b0390ff",
   "lastOpenFiles": [
-    "src/labs/htb/pandora/pandora.md",
     "src/SUMMARY.md",
     "src/index.md",
+    "src/_non-sec-index.md",
+    "src/labs/htb/pandora/pandora.md",
     "_local/non-sec-index.md",
     "_local/Creating CTF Challenge.md",
     "src/pkm/jobApplication.md",
     "src/research/BlindBox/summary.md",
     "src/research/cloud-nfv-priv-sec/summary.md",
-    "src/pkm/journey.md",
-    "src/labs/htb/index.md"
+    "src/pkm/journey.md"
   ]
 }
