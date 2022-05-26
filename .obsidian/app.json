@@ -13,5 +13,11 @@
   "alwaysUpdateLinks": true,
   "legacyEditor": false,
   "livePreview": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./_attachments",
+  "newLinkFormat": "relative",
+  "spellcheckLanguages": [
+    "en-GB"
+  ],
+  "newFileLocation": "current"
 }

@@ -4,7 +4,7 @@
 
 ----
 
-[Useful Tools](./tools.md)
+[Useful Tools]()
 
 ----
 
@@ -19,6 +19,10 @@
 - [Forensics]()
 - [Web Exploitation]()
 	- [Directory Traversal]()
+- [Linux]()
+	- [Privilege Escalation]()
+- [Windows]()
+	- [Active Directory]()
 
 
 # CTF Writeups
@@ -33,14 +37,19 @@
 
 - [TryHackMe]()
 	- [biteme [medium]]()
-- [HackTheBox]()
-	- [challenge]()
+- [HackTheBox](labs/htb/index.md)
+	- [pandora](labs/htb/pandora/pandora.md)
 
 # Cert Prep
 - [OSCP]()
 - [CCNA]()
 
 -----------------------
+
+# Reading Publications
+- [Publications/Research Papers](research/_research-index.md)
+	- [Building In-the-Cloud Network Functions: Security and Privacy Challenges](research/cloud-nfv-priv-sec/summary.md)
+	- [BlindBox: Deep Packet Inspection over Encrypted Traffic](research/blindbox/summary.md)
 
 #  Non security
 

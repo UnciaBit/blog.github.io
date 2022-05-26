@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bdb47a731b0390ff",
+        "id": "a0a46441c16f9ed8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "src/SUMMARY.md",
+            "file": "_local/Creating CTF Challenge.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "_local/Creating CTF Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,19 +101,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251
+    "width": 251,
+    "collapsed": true
   },
-  "active": "bdb47a731b0390ff",
+  "active": "a0a46441c16f9ed8",
   "lastOpenFiles": [
-    "src/SUMMARY.md",
-    "src/index.md",
-    "_local/non-sec-index.md",
     "_local/Creating CTF Challenge.md",
-    "src/pkm/jobApplication.md",
-    "src/research/BlindBox/summary.md",
-    "src/research/cloud-nfv-priv-sec/summary.md",
+    "README.md",
     "src/pkm/journey.md",
-    "src/labs/htb/index.md",
-    "src/research/BlindBox/Untitled.md"
+    "src/pkm/jobApplication.md",
+    "src/SUMMARY.md",
+    "src/tools.md",
+    "src/index.md",
+    "_local/drafts/journey.md",
+    "src/non-sec/_non-sec-index.md",
+    "_local/non-sec-index.md"
   ]
 }
