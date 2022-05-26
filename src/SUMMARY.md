@@ -48,8 +48,8 @@
 
 # Reading Publications
 - [Publications/Research Papers](research/_research-index.md)
-	- [Building In-the-Cloud Network Functions: Security and Privacy Challenges](research/cloud-nfv-priv-sec/summary.md)
-	- [BlindBox: Deep Packet Inspection over Encrypted Traffic](research/blindbox/summary.md)
+	- [Building In-the-Cloud Network Functions: Security and Privacy Challenges]()
+	- [BlindBox: Deep Packet Inspection over Encrypted Traffic]()
 
 #  Non security
 
