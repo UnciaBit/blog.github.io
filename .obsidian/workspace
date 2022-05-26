@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "src/SUMMARY.md",
+            "file": "src/labs/htb/pandora/pandora.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/labs/htb/pandora/pandora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "bdb47a731b0390ff",
   "lastOpenFiles": [
+    "src/labs/htb/pandora/pandora.md",
     "src/SUMMARY.md",
     "src/index.md",
     "_local/non-sec-index.md",
@@ -113,7 +114,6 @@
     "src/research/BlindBox/summary.md",
     "src/research/cloud-nfv-priv-sec/summary.md",
     "src/pkm/journey.md",
-    "src/labs/htb/index.md",
-    "src/research/BlindBox/Untitled.md"
+    "src/labs/htb/index.md"
   ]
 }

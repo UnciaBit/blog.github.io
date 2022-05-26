@@ -88,8 +88,8 @@ iso.3.6.1.2.1.25.4.2.1.5.26040 = STRING: "/usr/share/php/DB/storage.php"
 We have the credentials:
 
 ```
-daniel <- username
-HotelBabylon23 <- password
+username: daniel 
+password: HotelBabylon23
 ```
 
 ## SSH
