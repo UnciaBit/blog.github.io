@@ -85,12 +85,9 @@ iso.3.6.1.2.1.25.4.2.1.5.9187 = STRING: "-k start"
 iso.3.6.1.2.1.25.4.2.1.5.26040 = STRING: "/usr/share/php/DB/storage.php"
 ```
 
-We have the credentials:
-
-```
-username: daniel 
-password: HotelBabylon23
-```
+Now we have the credentials:
+- Username: daniel 
+- Password: HotelBabylon23
 
 ## SSH
 
