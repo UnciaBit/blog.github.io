@@ -66,6 +66,6 @@
 	- [Terminal Commands]()
 # Personal Development & PKM
 
-- [The Journey](./pkm/journey.md)
+- [The Journey]()
 	- [Getting a Job is Hard]()
 	- [Introvert's Attempt to People Networking]()
